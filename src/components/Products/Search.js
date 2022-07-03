@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from "react";
+import React, { useState, useEffect, useRef } from "react";
 
 import Card from "../UI/Card";
 import ErrorModal from "../UI/ErrorModal";
@@ -37,14 +37,13 @@ const Search = React.memo(() => {
     if (!isLoading && !error && data) {
       const productData = data?.products || [];
       const productArr = [...product, ...productData];
-
-      console.log(productArr);
-      console.log(data);
-      if (data.total && data.total > productArr.length) {
+      if (data.total && data.total >= productArr.length) {
         setHasMore(true);
         setProduct(productArr);
-      } else {
-        //setProduct(productArr);
+      } else if(data.total===0) {
+        setProduct([]);
+        setHasMore(false);
+      }else {
         setHasMore(false);
       }
       //setProduct((prvData)=> { return [...prvData, ...productData]});

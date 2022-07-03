@@ -4,7 +4,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./ProductList.css";
 
 const ProductList = (props) => {
-  console.log("RENDERING PRODUCTSLIST");
   return (
     <div className="container mydiv d-flex align-items-center justify-content-center text-center">
       {props.isLoading && (
