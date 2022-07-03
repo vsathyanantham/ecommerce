@@ -64,6 +64,7 @@ const Search = React.memo(() => {
                   className="header_search_form clearfix"
                   onSubmit={(e) => {
                     e.preventDefault();
+                    searchCall();
                   }}
                 >
                   <input

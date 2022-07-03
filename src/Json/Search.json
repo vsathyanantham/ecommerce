@@ -48,9 +48,7 @@
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 4
           }
         ],
@@ -62,11 +60,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 1,
         "expandedProducts": [
           {
@@ -260,9 +254,7 @@
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 5
           }
         ],
@@ -302,10 +294,7 @@
             },
             "itemCount": 0,
             "defaultSku": "RIE-70051-00013-00003",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "TUKAR_TAMBAH"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "TUKAR_TAMBAH"],
             "url": "/p/iphone-12-mini-128gb-resmi/ps--RIE-70051-00013?ds=RIE-70051-00013-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3195866&pid=RIE-70051-00013",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -336,10 +325,7 @@
             },
             "itemCount": 0,
             "defaultSku": "RIE-70051-00013-00005",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "TUKAR_TAMBAH"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "TUKAR_TAMBAH"],
             "url": "/p/iphone-12-mini-128gb-resmi/ps--RIE-70051-00013?ds=RIE-70051-00013-00005&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3195866&pid=RIE-70051-00013",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -370,10 +356,7 @@
             },
             "itemCount": 0,
             "defaultSku": "RIE-70051-00013-00004",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "TUKAR_TAMBAH"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "TUKAR_TAMBAH"],
             "url": "/p/iphone-12-mini-128gb-resmi/ps--RIE-70051-00013?ds=RIE-70051-00013-00004&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3195866&pid=RIE-70051-00013",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -404,10 +387,7 @@
             },
             "itemCount": 0,
             "defaultSku": "RIE-70051-00013-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "TUKAR_TAMBAH"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "TUKAR_TAMBAH"],
             "url": "/p/iphone-12-mini-128gb-resmi/ps--RIE-70051-00013?ds=RIE-70051-00013-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3195866&pid=RIE-70051-00013",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -438,10 +418,7 @@
             },
             "itemCount": 0,
             "defaultSku": "RIE-70051-00013-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "TUKAR_TAMBAH"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "TUKAR_TAMBAH"],
             "url": "/p/iphone-12-mini-128gb-resmi/ps--RIE-70051-00013?ds=RIE-70051-00013-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3195866&pid=RIE-70051-00013",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -512,9 +489,7 @@
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 2
           }
         ],
@@ -526,11 +501,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -661,9 +632,7 @@
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 2
           }
         ],
@@ -675,11 +644,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 1,
         "expandedProducts": [
           {
@@ -700,10 +665,7 @@
             },
             "itemCount": 0,
             "defaultSku": "39C-28979-00310-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "MERCHANT_VOUCHER"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "MERCHANT_VOUCHER"],
             "url": "/p/apple-iphone-x-64-gb-smartphone/ps--39C-28979-00310?ds=39C-28979-00310-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3009776&pid=39C-28979-00310",
             "promoEndTime": 0,
             "merchantVoucherCount": 1,
@@ -733,10 +695,7 @@
             },
             "itemCount": 0,
             "defaultSku": "39C-28979-00310-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "MERCHANT_VOUCHER"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "MERCHANT_VOUCHER"],
             "url": "/p/apple-iphone-x-64-gb-smartphone/ps--39C-28979-00310?ds=39C-28979-00310-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3009776&pid=39C-28979-00310",
             "promoEndTime": 0,
             "merchantVoucherCount": 1,
@@ -804,9 +763,7 @@
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 2
           }
         ],
@@ -818,11 +775,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -941,19 +894,13 @@
         "itemCount": 1,
         "defaultSku": "GRS-17030-06188-00003",
         "itemSku": "GRS-17030-06188-00003",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR",
-          "BLIBLI_SHIPPING"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR", "BLIBLI_SHIPPING"],
         "formattedId": "ps--GRS-17030-06188",
         "url": "/p/apple-iphone-12-mini-64gb/ps--GRS-17030-06188?ds=GRS-17030-06188-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=GRS-17030-001&pid=GRS-17030-06188",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 1
           }
         ],
@@ -965,11 +912,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [],
         "location": "Kota Tangerang",
@@ -1017,18 +960,13 @@
         "itemCount": 6,
         "defaultSku": "TOE-70215-00008-00001",
         "itemSku": "TOE-70215-00008-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--TOE-70215-00008",
         "url": "/p/iphone-11/ps--TOE-70215-00008?ds=TOE-70215-00008-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3267641&pid=TOE-70215-00008",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 6
           }
         ],
@@ -1040,11 +978,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -1066,9 +1000,7 @@
             },
             "itemCount": 0,
             "defaultSku": "TOE-70215-00008-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/iphone-11/ps--TOE-70215-00008?ds=TOE-70215-00008-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3267641&pid=TOE-70215-00008",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1099,9 +1031,7 @@
             },
             "itemCount": 0,
             "defaultSku": "TOE-70215-00008-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/iphone-11/ps--TOE-70215-00008?ds=TOE-70215-00008-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3267641&pid=TOE-70215-00008",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1132,9 +1062,7 @@
             },
             "itemCount": 0,
             "defaultSku": "TOE-70215-00008-00003",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/iphone-11/ps--TOE-70215-00008?ds=TOE-70215-00008-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3267641&pid=TOE-70215-00008",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1165,9 +1093,7 @@
             },
             "itemCount": 0,
             "defaultSku": "TOE-70215-00008-00004",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/iphone-11/ps--TOE-70215-00008?ds=TOE-70215-00008-00004&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3267641&pid=TOE-70215-00008",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1198,9 +1124,7 @@
             },
             "itemCount": 0,
             "defaultSku": "TOE-70215-00008-00005",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/iphone-11/ps--TOE-70215-00008?ds=TOE-70215-00008-00005&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3267641&pid=TOE-70215-00008",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1231,9 +1155,7 @@
             },
             "itemCount": 0,
             "defaultSku": "TOE-70215-00008-00006",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/iphone-11/ps--TOE-70215-00008?ds=TOE-70215-00008-00006&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3267641&pid=TOE-70215-00008",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1288,18 +1210,13 @@
         "itemCount": 2,
         "defaultSku": "IPS-70014-00013-00001",
         "itemSku": "IPS-70014-00013-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "BIG_PRODUCT"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "BIG_PRODUCT"],
         "formattedId": "ps--IPS-70014-00013",
         "url": "/p/apple-iphone-x-256gb-original-monile-phone-fullset-ready-stok-iphone-x-hape/ps--IPS-70014-00013?ds=IPS-70014-00013-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3278813&pid=IPS-70014-00013",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 2
           }
         ],
@@ -1311,11 +1228,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -1338,9 +1251,7 @@
             },
             "itemCount": 0,
             "defaultSku": "IPS-70014-00013-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-x-256gb-original-monile-phone-fullset-ready-stok-iphone-x-hape/ps--IPS-70014-00013?ds=IPS-70014-00013-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3278813&pid=IPS-70014-00013",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1372,9 +1283,7 @@
             },
             "itemCount": 0,
             "defaultSku": "IPS-70014-00013-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-x-256gb-original-monile-phone-fullset-ready-stok-iphone-x-hape/ps--IPS-70014-00013?ds=IPS-70014-00013-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3278813&pid=IPS-70014-00013",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1443,9 +1352,7 @@
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 4
           }
         ],
@@ -1485,11 +1392,7 @@
             },
             "itemCount": 0,
             "defaultSku": "RIE-70051-00031-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "PRE_ORDER",
-              "TUKAR_TAMBAH"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "PRE_ORDER", "TUKAR_TAMBAH"],
             "url": "/p/iphone-12-pro-max-256gb-garansi-apple/ps--RIE-70051-00031?ds=RIE-70051-00031-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3195866&pid=RIE-70051-00031",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1520,11 +1423,7 @@
             },
             "itemCount": 0,
             "defaultSku": "RIE-70051-00031-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "PRE_ORDER",
-              "TUKAR_TAMBAH"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "PRE_ORDER", "TUKAR_TAMBAH"],
             "url": "/p/iphone-12-pro-max-256gb-garansi-apple/ps--RIE-70051-00031?ds=RIE-70051-00031-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3195866&pid=RIE-70051-00031",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1555,11 +1454,7 @@
             },
             "itemCount": 0,
             "defaultSku": "RIE-70051-00031-00003",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "PRE_ORDER",
-              "TUKAR_TAMBAH"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "PRE_ORDER", "TUKAR_TAMBAH"],
             "url": "/p/iphone-12-pro-max-256gb-garansi-apple/ps--RIE-70051-00031?ds=RIE-70051-00031-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3195866&pid=RIE-70051-00031",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1590,11 +1485,7 @@
             },
             "itemCount": 0,
             "defaultSku": "RIE-70051-00031-00004",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "PRE_ORDER",
-              "TUKAR_TAMBAH"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "PRE_ORDER", "TUKAR_TAMBAH"],
             "url": "/p/iphone-12-pro-max-256gb-garansi-apple/ps--RIE-70051-00031?ds=RIE-70051-00031-00004&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3195866&pid=RIE-70051-00031",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1652,18 +1543,13 @@
         "itemCount": 3,
         "defaultSku": "NUO-70002-00047-00001",
         "itemSku": "NUO-70002-00047-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--NUO-70002-00047",
         "url": "/p/apple-iphone-8-256-gb-garansi-1-tahun-black-red-silver-gold-new-termurah-original/ps--NUO-70002-00047?ds=NUO-70002-00047-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00047",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 3
           }
         ],
@@ -1675,11 +1561,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -1701,9 +1583,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00047-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-8-256-gb-garansi-1-tahun-black-red-silver-gold-new-termurah-original/ps--NUO-70002-00047?ds=NUO-70002-00047-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00047",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1734,9 +1614,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00047-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-8-256-gb-garansi-1-tahun-black-red-silver-gold-new-termurah-original/ps--NUO-70002-00047?ds=NUO-70002-00047-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00047",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1767,9 +1645,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00047-00004",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-8-256-gb-garansi-1-tahun-black-red-silver-gold-new-termurah-original/ps--NUO-70002-00047?ds=NUO-70002-00047-00004&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00047",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1825,19 +1701,13 @@
         "itemCount": 3,
         "defaultSku": "MES-70076-00496-00001",
         "itemSku": "MES-70076-00496-00001",
-        "tags": [
-          "PRISTINE",
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["PRISTINE", "ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--MES-70076-00496",
         "url": "/p/iphone-se-64gb/ps--MES-70076-00496?ds=MES-70076-00496-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3170822&pid=MES-70076-00496",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 3
           }
         ],
@@ -1849,11 +1719,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -1875,10 +1741,7 @@
             },
             "itemCount": 0,
             "defaultSku": "MES-70076-00496-00001",
-            "tags": [
-              "PRISTINE",
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["PRISTINE", "ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/iphone-se-64gb/ps--MES-70076-00496?ds=MES-70076-00496-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3170822&pid=MES-70076-00496",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1909,10 +1772,7 @@
             },
             "itemCount": 0,
             "defaultSku": "MES-70076-00496-00003",
-            "tags": [
-              "PRISTINE",
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["PRISTINE", "ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/iphone-se-64gb/ps--MES-70076-00496?ds=MES-70076-00496-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3170822&pid=MES-70076-00496",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -1943,10 +1803,7 @@
             },
             "itemCount": 0,
             "defaultSku": "MES-70076-00496-00002",
-            "tags": [
-              "PRISTINE",
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["PRISTINE", "ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/iphone-se-64gb/ps--MES-70076-00496?ds=MES-70076-00496-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3170822&pid=MES-70076-00496",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2004,18 +1861,13 @@
         "itemCount": 5,
         "defaultSku": "NUO-70002-00023-00001",
         "itemSku": "NUO-70002-00023-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--NUO-70002-00023",
         "url": "/p/apple-iphone-7-plus-128gb-garansi-1-tahun-black-red-gold-rose-silver-termurah/ps--NUO-70002-00023?ds=NUO-70002-00023-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00023",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 5
           }
         ],
@@ -2027,11 +1879,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -2053,9 +1901,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00023-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-7-plus-128gb-garansi-1-tahun-black-red-gold-rose-silver-termurah/ps--NUO-70002-00023?ds=NUO-70002-00023-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00023",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2086,9 +1932,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00023-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-7-plus-128gb-garansi-1-tahun-black-red-gold-rose-silver-termurah/ps--NUO-70002-00023?ds=NUO-70002-00023-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00023",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2119,9 +1963,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00023-00003",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-7-plus-128gb-garansi-1-tahun-black-red-gold-rose-silver-termurah/ps--NUO-70002-00023?ds=NUO-70002-00023-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00023",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2152,9 +1994,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00023-00004",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-7-plus-128gb-garansi-1-tahun-black-red-gold-rose-silver-termurah/ps--NUO-70002-00023?ds=NUO-70002-00023-00004&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00023",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2185,9 +2025,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00023-00005",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-7-plus-128gb-garansi-1-tahun-black-red-gold-rose-silver-termurah/ps--NUO-70002-00023?ds=NUO-70002-00023-00005&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00023",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2245,18 +2083,13 @@
         "itemCount": 2,
         "defaultSku": "NUO-70002-00022-00001",
         "itemSku": "NUO-70002-00022-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--NUO-70002-00022",
         "url": "/p/apple-iphone-x-256-gb-garansi-1-tahun-black-white-new-termurah/ps--NUO-70002-00022?ds=NUO-70002-00022-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00022",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 2
           }
         ],
@@ -2268,11 +2101,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -2294,9 +2123,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00022-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-x-256-gb-garansi-1-tahun-black-white-new-termurah/ps--NUO-70002-00022?ds=NUO-70002-00022-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00022",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2327,9 +2154,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00022-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-x-256-gb-garansi-1-tahun-black-white-new-termurah/ps--NUO-70002-00022?ds=NUO-70002-00022-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00022",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2387,18 +2212,13 @@
         "itemCount": 3,
         "defaultSku": "NUO-70002-00048-00001",
         "itemSku": "NUO-70002-00048-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--NUO-70002-00048",
         "url": "/p/apple-iphone-xs-256-gb-garansi-1-tahun-grey-gold-silver-new-termurah-original/ps--NUO-70002-00048?ds=NUO-70002-00048-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00048",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 3
           }
         ],
@@ -2410,11 +2230,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -2436,9 +2252,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00048-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-xs-256-gb-garansi-1-tahun-grey-gold-silver-new-termurah-original/ps--NUO-70002-00048?ds=NUO-70002-00048-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00048",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2469,9 +2283,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00048-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-xs-256-gb-garansi-1-tahun-grey-gold-silver-new-termurah-original/ps--NUO-70002-00048?ds=NUO-70002-00048-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00048",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2502,9 +2314,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00048-00003",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-xs-256-gb-garansi-1-tahun-grey-gold-silver-new-termurah-original/ps--NUO-70002-00048?ds=NUO-70002-00048-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00048",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2561,19 +2371,13 @@
         "itemCount": 2,
         "defaultSku": "39C-28979-00434-00001",
         "itemSku": "39C-28979-00434-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR",
-          "MERCHANT_VOUCHER"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR", "MERCHANT_VOUCHER"],
         "formattedId": "ps--39C-28979-00434",
         "url": "/p/apple-iphone-x-64gb-grey-silver/ps--39C-28979-00434?ds=39C-28979-00434-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3009776&pid=39C-28979-00434",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 2
           }
         ],
@@ -2585,11 +2389,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 1,
         "expandedProducts": [
           {
@@ -2610,10 +2410,7 @@
             },
             "itemCount": 0,
             "defaultSku": "39C-28979-00434-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "MERCHANT_VOUCHER"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "MERCHANT_VOUCHER"],
             "url": "/p/apple-iphone-x-64gb-grey-silver/ps--39C-28979-00434?ds=39C-28979-00434-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3009776&pid=39C-28979-00434",
             "promoEndTime": 0,
             "merchantVoucherCount": 1,
@@ -2643,10 +2440,7 @@
             },
             "itemCount": 0,
             "defaultSku": "39C-28979-00434-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT",
-              "MERCHANT_VOUCHER"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT", "MERCHANT_VOUCHER"],
             "url": "/p/apple-iphone-x-64gb-grey-silver/ps--39C-28979-00434?ds=39C-28979-00434-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3009776&pid=39C-28979-00434",
             "promoEndTime": 0,
             "merchantVoucherCount": 1,
@@ -2704,18 +2498,13 @@
         "itemCount": 1,
         "defaultSku": "SIL-70017-00122-00001",
         "itemSku": "SIL-70017-00122-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--SIL-70017-00122",
         "url": "/p/iphone-12-pro-256gb/ps--SIL-70017-00122?ds=SIL-70017-00122-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3192532&pid=SIL-70017-00122",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 1
           }
         ],
@@ -2727,11 +2516,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [],
         "location": "Kota Semarang",
@@ -2779,18 +2564,13 @@
         "itemCount": 3,
         "defaultSku": "NUO-70002-00026-00001",
         "itemSku": "NUO-70002-00026-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--NUO-70002-00026",
         "url": "/p/apple-iphone-6s-64gb-garansi-1-tahun-grey-gold-rose-new-termurah/ps--NUO-70002-00026?ds=NUO-70002-00026-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00026",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 3
           }
         ],
@@ -2802,11 +2582,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -2828,9 +2604,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00026-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-6s-64gb-garansi-1-tahun-grey-gold-rose-new-termurah/ps--NUO-70002-00026?ds=NUO-70002-00026-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00026",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2861,9 +2635,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00026-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-6s-64gb-garansi-1-tahun-grey-gold-rose-new-termurah/ps--NUO-70002-00026?ds=NUO-70002-00026-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00026",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2894,9 +2666,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00026-00003",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-6s-64gb-garansi-1-tahun-grey-gold-rose-new-termurah/ps--NUO-70002-00026?ds=NUO-70002-00026-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00026",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -2954,18 +2724,13 @@
         "itemCount": 1,
         "defaultSku": "CHP-70050-00031-00001",
         "itemSku": "CHP-70050-00031-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--CHP-70050-00031",
         "url": "/p/apple-iphone-12-64-gb-smartphone-garansi-resmi-ibox/ps--CHP-70050-00031?ds=CHP-70050-00031-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3203513&pid=CHP-70050-00031",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 1
           }
         ],
@@ -2977,11 +2742,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [],
         "location": "Kota Jakarta Selatan",
@@ -3040,9 +2801,7 @@
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 1
           }
         ],
@@ -3054,11 +2813,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [],
         "location": "Kota Jakarta Barat",
@@ -3106,18 +2861,13 @@
         "itemCount": 4,
         "defaultSku": "NUO-70002-00025-00001",
         "itemSku": "NUO-70002-00025-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--NUO-70002-00025",
         "url": "/p/apple-iphone-8-plus-64gb-garansi-1-tahun-black-silver-gold-red-new-termurah/ps--NUO-70002-00025?ds=NUO-70002-00025-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00025",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 4
           }
         ],
@@ -3129,11 +2879,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -3155,9 +2901,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00025-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-8-plus-64gb-garansi-1-tahun-black-silver-gold-red-new-termurah/ps--NUO-70002-00025?ds=NUO-70002-00025-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00025",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3188,9 +2932,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00025-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-8-plus-64gb-garansi-1-tahun-black-silver-gold-red-new-termurah/ps--NUO-70002-00025?ds=NUO-70002-00025-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00025",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3221,9 +2963,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00025-00003",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-8-plus-64gb-garansi-1-tahun-black-silver-gold-red-new-termurah/ps--NUO-70002-00025?ds=NUO-70002-00025-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00025",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3254,9 +2994,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00025-00004",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-8-plus-64gb-garansi-1-tahun-black-silver-gold-red-new-termurah/ps--NUO-70002-00025?ds=NUO-70002-00025-00004&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00025",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3315,19 +3053,13 @@
         "itemCount": 1,
         "defaultSku": "DWS-70010-00048-00001",
         "itemSku": "DWS-70010-00048-00001",
-        "tags": [
-          "PRISTINE",
-          "ZERO_PERCENT_INSTALLMENT",
-          "BOPIS"
-        ],
+        "tags": ["PRISTINE", "ZERO_PERCENT_INSTALLMENT", "BOPIS"],
         "formattedId": "ps--DWS-70010-00048",
         "url": "/p/iphone-xr-64gb/ps--DWS-70010-00048?ds=DWS-70010-00048-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3211290&pid=DWS-70010-00048",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 1
           }
         ],
@@ -3339,11 +3071,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [],
         "location": "Kota Jakarta Timur",
@@ -3391,18 +3119,13 @@
         "itemCount": 4,
         "defaultSku": "NUO-70002-00024-00001",
         "itemSku": "NUO-70002-00024-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--NUO-70002-00024",
         "url": "/p/apple-iphone-7-32gb-garansi-1-tahun-black-gold-rose-red-new-termurah/ps--NUO-70002-00024?ds=NUO-70002-00024-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00024",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 4
           }
         ],
@@ -3414,11 +3137,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -3440,9 +3159,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00024-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-7-32gb-garansi-1-tahun-black-gold-rose-red-new-termurah/ps--NUO-70002-00024?ds=NUO-70002-00024-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00024",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3473,9 +3190,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00024-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-7-32gb-garansi-1-tahun-black-gold-rose-red-new-termurah/ps--NUO-70002-00024?ds=NUO-70002-00024-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00024",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3506,9 +3221,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00024-00003",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-7-32gb-garansi-1-tahun-black-gold-rose-red-new-termurah/ps--NUO-70002-00024?ds=NUO-70002-00024-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00024",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3539,9 +3252,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00024-00004",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-7-32gb-garansi-1-tahun-black-gold-rose-red-new-termurah/ps--NUO-70002-00024?ds=NUO-70002-00024-00004&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00024",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3599,18 +3310,13 @@
         "itemCount": 3,
         "defaultSku": "NUO-70002-00046-00001",
         "itemSku": "NUO-70002-00046-00001",
-        "tags": [
-          "ZERO_PERCENT_INSTALLMENT",
-          "REGULAR"
-        ],
+        "tags": ["ZERO_PERCENT_INSTALLMENT", "REGULAR"],
         "formattedId": "ps--NUO-70002-00046",
         "url": "/p/apple-iphone-xs-max-256-gb-garansi-1-tahun-grey-gold-silver-new-termurah-original/ps--NUO-70002-00046?ds=NUO-70002-00046-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00046",
         "attributes": [
           {
             "optionListingType": "COLOR_PALETE",
-            "values": [
-              "MULTICOLOR"
-            ],
+            "values": ["MULTICOLOR"],
             "count": 3
           }
         ],
@@ -3622,11 +3328,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "IP-1000001",
-          "54593",
-          "HA-1000002"
-        ],
+        "allCategories": ["IP-1000001", "54593", "HA-1000002"],
         "merchantVoucherCount": 0,
         "expandedProducts": [
           {
@@ -3648,9 +3350,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00046-00001",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-xs-max-256-gb-garansi-1-tahun-grey-gold-silver-new-termurah-original/ps--NUO-70002-00046?ds=NUO-70002-00046-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00046",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3681,9 +3381,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00046-00002",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-xs-max-256-gb-garansi-1-tahun-grey-gold-silver-new-termurah-original/ps--NUO-70002-00046?ds=NUO-70002-00046-00002&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00046",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3714,9 +3412,7 @@
             },
             "itemCount": 0,
             "defaultSku": "NUO-70002-00046-00003",
-            "tags": [
-              "ZERO_PERCENT_INSTALLMENT"
-            ],
+            "tags": ["ZERO_PERCENT_INSTALLMENT"],
             "url": "/p/apple-iphone-xs-max-256-gb-garansi-1-tahun-grey-gold-silver-new-termurah-original/ps--NUO-70002-00046?ds=NUO-70002-00046-00003&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3179866&pid=NUO-70002-00046",
             "promoEndTime": 0,
             "merchantVoucherCount": 0,
@@ -3778,10 +3474,7 @@
         "itemCount": 1,
         "defaultSku": "MOA-70046-00884-00001",
         "itemSku": "MOA-70046-00884-00001",
-        "tags": [
-          "REGULAR",
-          "MERCHANT_VOUCHER"
-        ],
+        "tags": ["REGULAR", "MERCHANT_VOUCHER"],
         "formattedId": "ps--MOA-70046-00884",
         "url": "/p/softcase-iphone-7-iphone7-iphone-8-iphone8-silicone-case-cover-silicon-case-casing-soft-case-murah/ps--MOA-70046-00884?ds=MOA-70046-00884-00001&source=SEARCH&sid=b88baefda539e413&cnc=false&pickupPointCode=PP-3220875&pid=MOA-70046-00884",
         "attributes": [
@@ -3797,11 +3490,7 @@
         },
         "promoEndTime": 0,
         "debugData": {},
-        "allCategories": [
-          "CA-1000001",
-          "54593",
-          "AK-1000001"
-        ],
+        "allCategories": ["CA-1000001", "54593", "AK-1000001"],
         "merchantVoucherCount": 3,
         "expandedProducts": [],
         "location": "Kota Jakarta Utara",
@@ -7758,41 +7447,25 @@
     "serverCurrentTime": 1637007165950,
     "productInfo": {
       "INM-60022-02574": {
-        "tags": [
-          "TRENDING_PRODUCTS_WITH_BACKFILL_L3"
-        ]
+        "tags": ["TRENDING_PRODUCTS_WITH_BACKFILL_L3"]
       },
       "39C-28979-00434": {
-        "tags": [
-          "MERCHANT_VOUCHER"
-        ]
+        "tags": ["MERCHANT_VOUCHER"]
       },
       "39C-28979-00310": {
-        "tags": [
-          "MERCHANT_VOUCHER",
-          "TRENDING_PRODUCTS_WITH_BACKFILL_L3"
-        ]
+        "tags": ["MERCHANT_VOUCHER", "TRENDING_PRODUCTS_WITH_BACKFILL_L3"]
       },
       "BLH-15012-13429": {
-        "tags": [
-          "TRENDING_PRODUCTS_WITH_BACKFILL_L3"
-        ]
+        "tags": ["TRENDING_PRODUCTS_WITH_BACKFILL_L3"]
       },
       "39C-28979-00274": {
-        "tags": [
-          "MERCHANT_VOUCHER",
-          "TRENDING_PRODUCTS_WITH_BACKFILL_L3"
-        ]
+        "tags": ["MERCHANT_VOUCHER", "TRENDING_PRODUCTS_WITH_BACKFILL_L3"]
       },
       "RIE-70051-00013": {
-        "tags": [
-          "TRENDING_PRODUCTS_WITH_BACKFILL_L3"
-        ]
+        "tags": ["TRENDING_PRODUCTS_WITH_BACKFILL_L3"]
       },
       "MOA-70046-00884": {
-        "tags": [
-          "MERCHANT_VOUCHER"
-        ]
+        "tags": ["MERCHANT_VOUCHER"]
       }
     },
     "code": "OK",
@@ -7812,9 +7485,7 @@
       "group_type": "L3",
       "sales_velocity_components": "q7EaLOO+LTu3h7XD2OPhH0MfU1/rl59YzFNQXvCvT/Pd7KwZOO5mX2zmpDa5+PatE0ub+eDbEzA2\n2daSyT/0VpXkCxaVaUaVxpObn9u3snlB3uPQOOOu8k7eq1Wu6BDdz+Rq8t4KW/7Tn1AqI6UFpVji\nbKLVS3teIlld6z267kTzPUxd/A8qCo+VJFkACwjOHVA8nlP31/n2Vhw5NUxjaQ6zDhnzU9onJRFH\nOIf6cZjWBuyXvNSoAchxadPNrVo4Tvr9CWLYFxifxvMDNDgs4jXwt7Jm6vj5tQVIqK/aT+1mPPz0\nsl9m5DFSSjko/7XzvGYGiNh4tBBSVtyGrC5/uBMDDUBjL3GFbeeMcScz7q2MqrnkIc038tAN+Jhd\nYVDr5+jz+YetljnMry1SYILj0H+m9kYU5LnxrQ8K3sSltHfFqCeOwcfxfKWZT/T17ZWq9wSCcQdQ\nBm255Wo24GualMufOLCzot3+HquZtFdvmHLV/aXTwfnuAC2hcsPIhgk7ndC3Qg/u5OrCQU510Eey\nnGnxHvvcPC5VHF6mhxvJMBR8ssN6CI6NcrI9wY/kcE/Zh0yJt9QEoGPBe9t/POdgFHtbBHa32trm\nmK7f0K3tKAU="
     },
-    "countExceedsLimit": [
-      "brandExact"
-    ],
+    "countExceedsLimit": ["brandExact"],
     "productsPerRow": 5,
     "needMoreSearchResponse": false,
     "pageMetadata": {
@@ -7829,18 +7500,8 @@
     "showAllCategories": false,
     "searchPageUrl": "",
     "catIntentFailed": false,
-    "sellerAdsPosition": [
-      16,
-      17,
-      18,
-      19,
-      20
-    ],
-    "sellerAdsPositionWebListView": [
-      16,
-      17,
-      18
-    ],
+    "sellerAdsPosition": [16, 17, 18, 19, 20],
+    "sellerAdsPositionWebListView": [16, 17, 18],
     "sponsorProducts": [
       {
         "destinationUrl": "https://t.o-s.io/click/?client_id=115069&seller_id=RIE-70051&sku_id=RIE-70051-00404&sclid=XQPeSMfcg2xrr3hQO1ET5m29hJ6QPMoj&svt=1|so|0.35075199999999995|sdu|1637007165509|ROI|253473|61963|102916|100913&tag=REVX_TAG&redirect_url=https%3A%2F%2Fwww.blibli.com%2Fp%2Fproduct-name%2Fis--RIE-70051-00404-00002",
